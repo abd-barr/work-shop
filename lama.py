@@ -24,7 +24,7 @@ completion = client.chat(
     ],
     think=False,
     options={
-        "temperature": 0.8
+        "temperature": 0
     }
 )
 
